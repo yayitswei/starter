@@ -16,7 +16,7 @@
              ["src/{{sanitized}}/views/routes.clj" (render "routes.clj" data)]
              ["src/{{sanitized}}/views/common.clj" (render "common.clj" data)]
              ["src/cljs/main.cljs" (render "main.cljs" data)]
-             ["resources/public/less" (render "styles.less" data)]
+             ["resources/public/less/styles.less" (render "styles.less" data)]
              "resources/public/js"
              "resources/public/img"
              "src/{{sanitized}}/models"
