@@ -1,0 +1,10 @@
+pom.xml
+*jar
+/lib/
+/classes/
+.lein-deps-sum
+.cake
+target/
+out/
+resources/public/js/bin
+resources/public/js/bin-debug
